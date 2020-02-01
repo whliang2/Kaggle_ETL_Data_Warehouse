@@ -1,0 +1,9 @@
+{
+    "object" : "STRING",
+    "int64" : "BIGINT",
+    "float64" : "DOUBLE",
+    "bool": "BOOLEAN",
+    "datetime64" : "DATE",
+    "timedelta[ns]" : "STRING",
+    "category" : "STRING"
+}

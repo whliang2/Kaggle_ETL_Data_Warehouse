@@ -1,0 +1,9 @@
+{
+    "host_name" : "192.168.1.101",
+    "port" : "10000",
+    "user" : "hive",
+    "password" : "raspberryhive",
+    "database" : "testdb",
+    "data_folder": "../data/"
+}
+

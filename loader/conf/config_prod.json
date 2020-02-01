@@ -1,0 +1,9 @@
+{
+    "host_name" : "localhost",
+    "port" : "10000",
+    "user" : "hive",
+    "password" : "raspberryhive",
+    "database" : "kaggle",
+    "data_folder": "../data/"
+}
+
